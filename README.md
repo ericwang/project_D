@@ -1,2 +1,2 @@
 # project_D
-test games
+https://ericwang.github.io/project_D/
